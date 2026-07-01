@@ -1,0 +1,9 @@
+# Local Claude Code project instructions, not part of the published site
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Editor / temp files
+*.swp
+*~
